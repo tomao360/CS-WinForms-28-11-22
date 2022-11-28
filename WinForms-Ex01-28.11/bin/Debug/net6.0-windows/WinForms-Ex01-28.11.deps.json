@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinForms-Ex01-28.11/1.0.0": {
+        "runtime": {
+          "WinForms-Ex01-28.11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinForms-Ex01-28.11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
